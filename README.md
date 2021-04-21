@@ -42,7 +42,7 @@ For multi-label image classification, VOC 2007 dataset is divided into
 validate set to train our model, and evaluate the classification performance on the test set.<br />
 You can see more detailed description of this dataset on its [website](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/). <br />
 
-#### [Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) - 20 common object categories
+#### [Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
 The classes of VOC 2012 are same as VOC 2007, but the 2012 dataset contains images from 2008-2011 and there is no 
  intersection with 2007. VOC 2012 dataset is divided into **training (5,717)**, **validating (5,823)** and **testing (10,991)** set. 
  However, no ground truth labels are provided in the test set. Therefore, all the approaches have to be evaluated by 
